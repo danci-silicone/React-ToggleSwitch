@@ -23,8 +23,6 @@ const StyledOuterDiv = styled.div`
   cursor: ${(props) => (props.disabled ? "none" : "grab")};
 
   transition: all 350ms ease-in;
-
- 
 `;
 
 const StyledInnerDiv = styled.div`
